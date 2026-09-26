@@ -17,7 +17,7 @@
   header{text-align:center;margin-bottom:28px}
   header h1{font-size:22px;font-weight:700;letter-spacing:.02em}
   header p{color:var(--sub);font-size:13px;margin-top:6px}
-  .board{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;width:100%;max-width:760px}
+  .board{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;width:100%;max-width:900px}
   .tile{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px 22px;position:relative;
         overflow:hidden}
   .tile::after{content:"";position:absolute;inset:0;pointer-events:none;
@@ -55,7 +55,6 @@ const BOTS = [
   { key: "kr",    label: "국내" },
   { key: "isa",   label: "ISA" },
   { key: "swing", label: "스윙" },
-  { key: "us",    label: "미국" },
 ];
 
 const board = document.getElementById("board");

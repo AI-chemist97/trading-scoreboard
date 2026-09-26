@@ -1,14 +1,13 @@
 # 📟 Trading Scoreboard
 
-- **[KR]** 자동매매 봇 4개(국내 / ISA / 스윙 / 미국)의 누적 수익률을 퍼센트로만 공개하는 전광판입니다.
-- **[EN]** A public scoreboard showing only the cumulative return (%) of four live trading bots (KR / ISA / Swing / US).
+- **[KR]** 자동매매 봇 3개(국내 / ISA / 스윙)의 누적 수익률을 퍼센트로만 공개하는 전광판입니다.
+- **[EN]** A public scoreboard showing only the cumulative return (%) of three live trading bots (KR / ISA / Swing).
 
 [![Trading Scoreboard](https://raw.githubusercontent.com/AI-chemist97/trading-scoreboard/main/card.svg)](https://ai-chemist97.github.io/trading-scoreboard/)
 
 ![국내](https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/AI-chemist97/trading-scoreboard/main/badge/kr.json)
 ![ISA](https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/AI-chemist97/trading-scoreboard/main/badge/isa.json)
 ![스윙](https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/AI-chemist97/trading-scoreboard/main/badge/swing.json)
-![미국](https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/AI-chemist97/trading-scoreboard/main/badge/us.json)
 
 **🔗 Live page:** https://ai-chemist97.github.io/trading-scoreboard/
 
